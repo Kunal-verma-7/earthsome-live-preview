@@ -3,10 +3,7 @@
 # 🌿 Earthsome  
 ### Modern Wellness & Sustainable Living Platform
 
-<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://res.cloudinary.com/duyzjopfy/image/upload/v1778742419/Screenshot_2026-05-14_123517e_o6zezx.png" />
 
 <br/>
 
