@@ -59,37 +59,6 @@ Clean UI • Fast Performance • Premium Experience
 
 ---
 
-## 📂 Project Structure
-
-```bash
-earthsome/
-│── client/
-│── server/
-│── public/
-│── components/
-│── pages/
-│── models/
-│── routes/
-│── controllers/
-│── package.json
-```
-
----
-
-## ⚙️ Installation
-
-```bash
-# Clone Repository
-git clone https://github.com/your-username/earthsome.git
-
-# Install Dependencies
-npm install
-
-# Start Development Server
-npm run dev
-```
-
----
 
 ## 🌍 Vision
 
